@@ -1,0 +1,81 @@
+.main h1{
+    text-align: center;
+    margin-bottom: 1.5rem  ;
+    margin-top: 1.5rem;
+}
+
+h1{
+    text-align: center; 
+}
+.content a{
+    text-decoration: none;
+    color: black;
+}
+.content h2{
+    text-align: center;
+}
+.history h2,figure{
+    text-align: center;
+}
+.xx figure{
+    margin-top: 4rem;
+}
+.climat figure{
+    margin-top: 2rem;
+}
+.flora figure{
+    margin-top: 2rem;
+}
+.energy figure{
+    margin-top: 2rem;
+}
+.climat table{
+    width: 100%;
+}
+.geo h2,figure{
+    text-align: center;
+}
+.geo table{
+    border: 1px solid black;
+    text-align: center;
+    margin:auto;
+}
+.dynamic table{
+    border: 1px solid black;
+    text-align: center;
+    width: 300px;
+    margin:auto;
+}
+.economy h2,h4,figure {
+    text-align: center;
+}
+.economy figure{
+    margin-top: 4rem;
+}
+.economy table{
+    border: 1px solid black;
+    width: 100%;
+}
+.population h2,h4,figure {
+    text-align: center;
+}
+.info figure{
+    margin-top: 2rem;
+}
+.footer-develop {
+    text-align: center;
+    margin: 2rem;
+  }
+.footer-contacts{
+    margin-top: 2.3rem;
+    text-align: center;
+}
+.par{
+    height: 100vh;
+}
+.main{
+    background-color: rgba(246, 233, 240, 0.8);
+}
+footer{
+    background-color: rgba(234, 230, 255, 0.8);
+}
