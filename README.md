@@ -5,5 +5,5 @@
 [Второй проект](https://memfik.github.io/src/ "Мой второй проект") - Практика полученных знаний(html/css/jquery/less/bootstrap) </br>
 [Третий проект](https://memfik.github.io/newProject/ "Мой третий проект") - Практика полученных знаний(html/css/jquery/less/bootstrap) </br>
 [Четвертый проект](https://memfik.github.io/tromso/ "Мой четвертый проект") - Оттачивание навыков(html/css/js/less/оптимизация) </br>
-[Реакт приложение](https://memfik.github.io/build/ "Мой четвертый проект") - Реакт приложение соц сеть </br>
+
 
